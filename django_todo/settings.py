@@ -26,7 +26,7 @@ SECRET_KEY = '28$^1#o+mza64o54%v^zinq0!(@$-z^(5u63$=ro=%(+9!pl6)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['seanan-todo-app.herokuapp.com']
 
 
 # Application definition
